@@ -1,6 +1,7 @@
 const { put } = require("@vercel/blob");
 
 const ALLOWED_ORIGINS = [
+  "https://datafarm-landing.vercel.app",
   "https://landing-pearl-mu.vercel.app",
   "http://localhost:4000",
   "http://localhost:3000",
