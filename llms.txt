@@ -1,0 +1,25 @@
+# Data Farm
+
+> AI-powered SaaS platform that turns messy business data into clean, actionable intelligence.
+
+## What is Data Farm?
+
+Data Farm connects CSV files, PDFs, databases, and cloud data warehouses — then uses AI to clean, transform, and unify everything. Users can ask questions about their data in plain English and get shareable dashboards in seconds.
+
+## Core Features
+
+- **AI Data Cleaning**: Automatically detect and fix data quality issues — missing values, duplicates, type mismatches, outliers — with AI-suggested corrections.
+- **Interactive Dashboards**: Generate and share visual dashboards from any dataset with charts, KPIs, and data tables.
+- **Conversational Analytics**: Ask questions about your data in natural language and get instant answers powered by AI.
+- **Universal Connectors**: Import data from CSV, PDF, Excel, JSON, PowerPoint, PostgreSQL, MySQL, SQLite, and cloud warehouses.
+- **Data Quality Reports**: Get comprehensive quality assessments with severity ratings and one-click fixes.
+- **Knowledge Graph**: Automatically extract entities and relationships across datasets.
+
+## Status
+
+Data Farm is currently in pre-launch. Join the waitlist at https://datafarm-landing.vercel.app/ for early access.
+
+## Links
+
+- Website: https://datafarm-landing.vercel.app/
+- GitHub: https://github.com/mattramos66/datafarm-landing
