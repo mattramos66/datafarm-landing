@@ -17,9 +17,9 @@ Data Farm connects CSV files, PDFs, databases, and cloud data warehouses — the
 
 ## Status
 
-Data Farm is currently in pre-launch. Join the waitlist at https://datafarm-landing.vercel.app/ for early access.
+Data Farm is currently in pre-launch. Join the waitlist at https://ai-datafarm.com/ for early access.
 
 ## Links
 
-- Website: https://datafarm-landing.vercel.app/
+- Website: https://ai-datafarm.com/
 - GitHub: https://github.com/mattramos66/datafarm-landing
